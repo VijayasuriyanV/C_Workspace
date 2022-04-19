@@ -50,7 +50,7 @@ int main()
 
 	printf("\n Discounted total: %.2f", sub_total);
 
-	printf("\n tax: + %.2f", tax_amt);
+	printf("\n Tax_amt:  %.2f", tax_amt);
 
 	printf("\n--------------------");
 
