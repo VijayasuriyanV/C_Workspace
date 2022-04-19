@@ -44,7 +44,7 @@ int main()
 
 	printf("\n ----------------");
 
-	printf("\n Amount:%.2f",discount_amt);
+	printf("\n Amount:%.2f",amt);
 
 	printf("\n Discount:%.2f",discount_amt);
 
