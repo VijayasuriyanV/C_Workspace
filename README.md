@@ -15,4 +15,5 @@
 - Sum_of_2_no
 - Swap_using_Temp
 - Swap_without_Temp
-
+- Print_Ones(last)_digit
+- Bill_amount
